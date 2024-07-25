@@ -18,7 +18,8 @@ streamlit==1.36.0
 # 注意！！！！
 在app.py中，由于API-KEY值涉及个人信息和隐私，各位对API-KAY的值需要修改，如何获取API-KEY值，大家请看以下流程~~~
 
-1. 进入阿里的通义官网https://tongyi.aliyun.com/，登录或注册账号
+1. 进入阿里的通义官网https://tongyi.aliyun.com/
+
 2. 选择“阿里云百炼”，进入阿里云百炼官网
 
 ![image](https://github.com/user-attachments/assets/ff6bd10c-eb80-4955-9187-9964d89e855d)
